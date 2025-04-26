@@ -6,7 +6,8 @@
 
 ### To Print Working Directory
 
-        pwd
+        pwd 
+
 
 ### To Change Directory
 
@@ -220,5 +221,7 @@ In this case it unzip the ayush.zip
 
         free 
 
+ ###
 
+ sagar
 
